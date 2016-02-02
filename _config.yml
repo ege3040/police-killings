@@ -7,16 +7,16 @@ markdown: 			 redcarpet
 #relative_permalinks: true
 
 # Setup
-title:               R-338 (Renk) Takım Proje Sayfası
+title:               AB 16' R ile Veri Analizi - Star Group
 tagline:             'Akademik Bilişim 2016'
-description:         'Kısa proje tanımını buraya girin'
+description:         'ABD'de Polis Tarafından Öldürülen İnsanların Analizi'
 url:                 http://r338.github.io/ab-2016
 baseurl:             '/police-killings'
 paginate:            5
 
 # About/contact
 author:
-  name:              'Takım elemanları'
+  name:              'Ümit Işıkdağ, Gözde Yüksel, Ege Savcı'
   url:               http://r338.github.io/takim-taslak
   email:             
 
