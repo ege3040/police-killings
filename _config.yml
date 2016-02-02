@@ -11,7 +11,7 @@ title:               AB 16' R ile Veri Analizi - Star Group
 tagline:             'Akademik Bilişim 2016'
 description:         'ABD'de Polis Tarafından Öldürülen İnsanların Analizi'
 url:                 http://r338.github.io/ab-2016
-baseurl:             '/police-killings'
+baseurl:             '/takim-taslak'
 paginate:            5
 
 # About/contact
