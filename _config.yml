@@ -11,7 +11,7 @@ title:               R-338 (Renk) Takım Proje Sayfası
 tagline:             'Akademik Bilişim 2016'
 description:         'Kısa proje tanımını buraya girin'
 url:                 http://r338.github.io/ab-2016
-baseurl:             '/takim-taslak'
+baseurl:             '/police-killings'
 paginate:            5
 
 # About/contact
